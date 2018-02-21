@@ -1,6 +1,6 @@
 # EMNIST-Database
 An EMNIST database i created in CSV format (converted from a 28x28 pixel image)
-Theres not too many examples for each number/character so would probably be best used as test input into your neural net.
+Theres not too many examples for each number/character (165 for each) so would probably be best used as test input into your neural net.
 
 I struggled to find alphabetical characters dataset in csv format ready for input into a neural network so i thought id make my own using a few images of handwritten characters i found online (forgive me as i cant find the source at the moment)
 
