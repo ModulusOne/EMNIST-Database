@@ -4,7 +4,7 @@ Theres not too many examples for each number/character (165 for each) so would p
 
 I struggled to find alphabetical characters dataset in csv format ready for input into a neural network so i thought id make my own using a few images of handwritten characters i found online (forgive me as i cant find the source at the moment)
 
-I will also add the code in which i used to convert the images into 28x28 from their original size (alot bigger)
+I will also add the python code in which i used to convert the images into 28x28 from their original size (alot bigger)
 and i will also add the code to turn the images into a csv file
 
 Each line in the file is a seperate image, and the first number in each line is the mark of the character of the image e.g. a-,A,b-,B,c-,C,1,2,3...
