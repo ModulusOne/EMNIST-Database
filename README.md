@@ -6,7 +6,7 @@ Theres not too many examples for each number/character (165 for each) so would p
 
 The files are saved in the zip file as the file was too big to directly upload. I have included the python files which you can use to create your own csv files. I have also included the initial images before and after they were compressed and also the final csv file.
 
-I struggled to find alphabetical characters dataset in csv format ready for input into a neural network so i thought id make my own using a few images of handwritten characters i found online (forgive me as i cant find the source at the moment)
+I struggled to find alphabetical characters dataset in csv format ready for input into a neural network so i thought id make my own using a few images of handwritten characters i found online. src = http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
 
 I will also add the python code in which i used to convert the images into 28x28 from their original size (alot bigger)
 and i will also add the code to turn the images into a csv file
